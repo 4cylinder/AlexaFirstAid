@@ -1,0 +1,59 @@
+SelectItemIntent i need help with {Item}
+SelectItemIntent {Item}
+SelectItemIntent i have a case of {Item}
+SelectItemIntent someone got {Item}
+SelectItemIntent someone is {Item}
+SelectItemIntent someone has a {Item}
+SelectItemIntent someone has an {Item}
+SelectItemIntent someone's {Item}
+SelectItemIntent they got {Item}
+SelectItemIntent they are {Item}
+SelectItemIntent they have a {Item}
+SelectItemIntent they have an {Item}
+SelectItemIntent they're {Item}
+SelectItemIntent he got {Item}
+SelectItemIntent he is {Item}
+SelectItemIntent he has a {Item}
+SelectItemIntent he has an {Item}
+SelectItemIntent he's {Item}
+SelectItemIntent she got {Item}
+SelectItemIntent she is {Item}
+SelectItemIntent she has a {Item}
+SelectItemIntent she has an {Item}
+SelectItemIntent she's {Item}
+
+UnsureIntent i don't know
+UnsureIntent what should i say
+
+CprReadyIntent ready
+CprReadyIntent i am ready
+CprReadyIntent i'm ready
+
+CprUnsureIntent i need help with {CprItem}
+CprUnsureIntent how do i do {CprItem}
+
+CprRestartIntent restart {CprItem}
+CprRestartIntent restart
+
+CprDoneIntent done
+CprDoneIntent i am done
+CprDoneIntent i'm done
+
+CprQuitIntent stop CPR
+CprQuitIntent quit CPR
+CprQuitConfirmIntent yes
+CprQuitCancelIntent no
+
+AMAZON.RepeatIntent what was that
+AMAZON.RepeatIntent can you repeat that
+AMAZON.RepeatIntent come again
+
+AMAZON.StartOverIntent start over
+AMAZON.StartOverIntent return to beginning
+AMAZON.StartOverIntent reset
+
+AMAZON.StopIntent stop first aid
+AMAZON.StopIntent quit first aid
+AMAZON.StopIntent done with first aid
+AMAZON.CancelIntent never mind
+AMAZON.CancelIntent cancel first aid

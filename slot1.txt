@@ -1,0 +1,23 @@
+LIST_OF_ITEMS
+injured
+injury
+choking
+CPR
+AED
+bleeding
+burns
+burned
+poisoned
+poisoning
+neck injury
+spinal injury
+neck injuries
+spinal injuries
+injured neck
+injured spine
+stroke
+conscious 
+unconscious
+controlling bleeding
+checking an injured adult
+choked

@@ -1,0 +1,4 @@
+LIST_OF_CPR_ITEMS
+chest compressions
+rescue breaths
+breaths

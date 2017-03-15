@@ -1,0 +1,50 @@
+{
+	  "intents": [
+	  	{ "intent": "SelectItemIntent",
+	  	"slots": [
+	    	{
+	      	"name": "Item",
+	      	"type": "LIST_OF_ITEMS"
+	    	}
+	  	]},
+
+	    { "intent": "UnsureIntent" },
+
+	    { "intent": "CprReadyIntent" },
+
+	    { "intent": "CprUnsureIntent",
+	  	"slots": [
+	    	{
+	      	"name": "CprItem",
+	      	"type": "LIST_OF_CPR_ITEMS"
+	    	}
+	  	]},
+
+	    { "intent": "CprRestartIntent",
+	  	"slots": [
+	    	{
+	      	"name": "CprItem",
+	      	"type": "LIST_OF_CPR_ITEMS"
+	    	}
+	  	] },
+
+	    { "intent": "CprDoneIntent" },
+
+	    { "intent": "CprQuitIntent" },
+
+	    { "intent": "CprQuitConfirmIntent" },
+
+	    { "intent": "CprQuitCancelIntent" },
+
+		{ "intent": "AMAZON.StartOverIntent" },
+
+		{ "intent": "AMAZON.RepeatIntent" },
+
+		{ "intent": "AMAZON.HelpIntent" },
+
+		{ "intent": "AMAZON.StopIntent" },
+
+		{ "intent": "AMAZON.CancelIntent" }
+	  ]
+	}
+
