@@ -9,6 +9,7 @@ The user says “Alexa, first aid”. The Alexa skill opens the main menu and re
 **Sample help items**
 
 These three examples show different items, as well as different ways to invoke the same intent:
+
 * User: “I need help with a neck injury”.
 * Alexa: “Call 911. Minimize movement of the head, neck, and spine. Place both hands on both sides of the person’s head for stability”.
 
