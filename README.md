@@ -10,14 +10,15 @@ The user says “Alexa, first aid”. The Alexa skill opens the main menu and re
 
 These three examples show different items, as well as different ways to invoke the same intent:
 
+Example 1:
 * User: “I need help with a neck injury”.
 * Alexa: “Call 911. Minimize movement of the head, neck, and spine. Place both hands on both sides of the person’s head for stability”.
 
-
+Example 2:
 * User: “Someone’s bleeding”.
 * Alexa: "Cover the wound. Apply direct pressure until bleeding stops. Cover the dressing with a bandage. Apply more pressure and call 911.”
 
-
+Example 3:
 * User: “She got burned”
 * Alexa: “Remove the source of the burn. Cool the burn with cold running water. Cover the burn loosely with sterile dressing. Call 911. Care for shock.”
 
